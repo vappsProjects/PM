@@ -2,7 +2,7 @@
   {
     "trailerId": "HfiH_526qhY",
     "id": "400160-the-spongebob-movie-sponge-on-the-run",
-    "poster": "/sp9fYcVbUHDFgGZpLvCSJsplfbd.jpg",
+    "poster": "/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
     "year": "2020",
     "director": "Tim Hill",
     "pLatin": "https://v2.zplayer.live/embed/rbk8cko8i5r2",
@@ -15,7 +15,7 @@
   {
     "trailerId": "9nlhmJF5FNI",
     "id": "531219-roald-dahl-s-the-witches",
-    "poster": "/s1y92244iBlKW04rEnaEK8i8tPY.jpg",
+    "poster": "/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg",
     "year": "2020",
     "director": "Robert Zemeckis",
     "pLatin": "https://pelispop.net/v/-erelcpyzzqy2kk",
@@ -41,7 +41,7 @@
   {
     "trailerId": "K41a_JkCM1U",
     "id": "755812-miraculous-world-new-york-united-heroez",
-    "poster": "/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg",
+    "poster": "/d4ZOtAMq8baOteXeSYkVI7U9ntD.jpg",
     "year": "2020",
     "director": "Thomas Astruc",
     "pLatin": "https://pelispop.net/v/y2-lmhenk6555g3",
@@ -54,7 +54,7 @@
   {
     "trailerId": "gn5QmllRCn4",
     "id": "508439-onward",
-    "poster": "/2owzga56QNMhpFiOTa2JN3FZjev.jpg",
+    "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
     "year": "2020",
     "director": "Dan Scanlon",
     "pLatin": "https://dutrag.com/v/zjy34hjgq7gp736",
@@ -67,7 +67,7 @@
   {
     "trailerId": "u4Tf7bLOErI",
     "id": "520946-100-wolf",
-    "poster": "/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg",
+    "poster": "/sGtZ77fsF1dLOyRTIFiIHnbMhPO.jpg",
     "year": "2020",
     "director": "Alexs Stadermann",
     "pLatin": "https://dutrag.com/v/6xyl4i0w2q4ljq-",
@@ -93,7 +93,7 @@
   {
     "trailerId": "I1vccr3yWBU",
     "id": "664767-mortal-kombat-legends-scorpion-s-revenge",
-    "poster": "/mo5Zsj4twtixhyeYZshBOM62lcN.jpg",
+    "poster": "4VlXER3FImHeFuUjBShFamhIp9M.jpg",
     "year": "2020",
     "director": "Ethan Spaulding",
     "pLatin": "https://pelispop.net/v/5878gadd6w-3-yd",
@@ -106,7 +106,7 @@
   {
     "trailerId": "szby7ZHLnkA",
     "id": "454626-sonic-the-hedgehog",
-    "poster": "/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+    "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
     "year": "2020",
     "director": "Jeff Fowler",
     "pLatin": "https://pelispop.net/v/mrlrqi5526227qk",
@@ -130,9 +130,22 @@
     "dEnglish": "https://1fichier.com/?btnywfkgnvhnc2gvqcif"
   },
   {
+    "id": "420809-maleficent-mistress-of-evil",
+    "poster": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+    "year": "2019",
+    "director": "Joachim Rønning",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "yL1f8yNxGBk"
+  },
+  {
     "trailerId": "Zi4LMpSDccc",
     "id": "330457-frozen-2",
-    "poster": "/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
     "year": "2019",
     "director": "Chris Buck",
     "pLatin": "https://jawcloud.co/embed-vjybcfhahsv9.html",
@@ -145,7 +158,7 @@
   {
     "trailerId": "wmiIUN-7qhE",
     "id": "301528-toy-story-4",
-    "poster": "/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+    "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
     "year": "2019",
     "director": "Josh Cooley",
     "pLatin": "https://jawcloud.co/embed-7kzdm9ndhrl4.html",
@@ -154,6 +167,19 @@
     "dLatin": "https://1fichier.com/?i5z2lzgjierbj7tketwi",
     "dCastillian": "https://1fichier.com/?cn0lt1a6ti4sq6lrr5qj",
     "dEnglish": "https://1fichier.com/?tf0q9ch8akmq1bsnfvis"
+  },
+  {
+    "id": "127380-finding-dory",
+    "poster": "/ipJx835Tv6rtGht3uT7kA9Nxrnh.jpg",
+    "year": "2016",
+    "director": "Andrew Stanton",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "iG0P6bjyUNI"
   },
   {
     "trailerId": "0sH0__SpV88",
@@ -171,7 +197,7 @@
   {
     "trailerId": "TbQm5doF_Uc",
     "id": "109445-frozen",
-    "poster": "/8TEsWQbWxMKj8eir8COWfw2HYyC.jpg",
+    "poster": "/m4uhSpErBKprhsclr0zynTYdupb.jpg",
     "year": "2013",
     "director": "Chris Buck",
     "pLatin": "https://jawcloud.co/embed-v9y3y5bbc36v.html",
@@ -180,5 +206,18 @@
     "dLatin": "https://1fichier.com/?nvb019z88umskpzr0btn",
     "dCastillian": "https://1fichier.com/?c65qwd728iqkweca5d2q",
     "dEnglish": "https://1fichier.com/?4cuna2znjfc237tij2nh"
+  },
+  {
+    "id": "12-finding-nemo",
+    "poster": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+    "year": "2003",
+    "director": "Andrew Stanton",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "SPHfeNgogVs"
   }
 ]
