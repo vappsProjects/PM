@@ -130,6 +130,19 @@
     "dEnglish": "https://1fichier.com/?btnywfkgnvhnc2gvqcif"
   },
   {
+    "id": "420809-maleficent-mistress-of-evil",
+    "poster": "/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg",
+    "year": "2019",
+    "director": "Joachim Rønning",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "aGWbT2ZfZwg"
+  },
+  {
     "trailerId": "0S2ixmdovlw",
     "id": "330457-frozen-2",
     "poster": "/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
@@ -156,6 +169,19 @@
     "dEnglish": "https://1fichier.com/?tf0q9ch8akmq1bsnfvis"
   },
   {
+    "id": "127380-finding-dory",
+    "poster": "/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",
+    "year": "2016",
+    "director": "Andrew Stanton",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "AmyUkJBq3pg"
+  },
+  {
     "trailerId": "XAWu1iXYx1k",
     "id": "158852-tomorrowland",
     "poster": "/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg",
@@ -180,5 +206,18 @@
     "dLatin": "https://1fichier.com/?nvb019z88umskpzr0btn",
     "dCastillian": "https://1fichier.com/?c65qwd728iqkweca5d2q",
     "dEnglish": "https://1fichier.com/?4cuna2znjfc237tij2nh"
+  },
+  {
+    "id": "12-finding-nemo",
+    "poster": "/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+    "year": "2003",
+    "director": "Andrew Stanton",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "ba4TwyaNhSQ"
   }
 ]
