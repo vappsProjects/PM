@@ -507,6 +507,19 @@
     "trailerId": "8ndhidEmUbI"
   },
   {
+    "id": "351286-jurassic-world-fallen-kingdom",
+    "poster": "/7dAh80ydoWvUaBE8uFYkp9WsoSC.jpg",
+    "year": "2018",
+    "director": "J. A. Bayona",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "vn9mMeWcgoM"
+  },
+  {
     "id": "284054-black-panther",
     "poster": "/elAEwrNbLqVHojxilHz6NLW9no3.jpg",
     "year": "2018",
@@ -728,6 +741,19 @@
     "trailerId": "IjHgzkQM2Sg"
   },
   {
+    "id": "262504-allegiant",
+    "poster": "/etGXQzt6Znfkd5DcqCfGlyWrfxp.jpg",
+    "year": "2016",
+    "director": "Robert Schwentke",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "LCywVLaNqCg"
+  },
+  {
     "id": "343611-jack-reacher-never-go-back",
     "poster": "/wxLUQ1pIms3HAlVGYvEG9zg2kDs.jpg",
     "year": "2016",
@@ -806,6 +832,58 @@
     "trailerId": "COvnHv42T-A"
   },
   {
+    "id": "299687-the-5th-wave",
+    "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+    "year": "2016",
+    "director": "J Blakeson",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "JDJj9X0ZAsM"
+  },
+  {
+    "id": "131634-the-hunger-games-mockingjay-part-2",
+    "poster": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+    "year": "2015",
+    "director": "Francis Lawrence",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "n-7K_OjsDCQ"
+  },
+  {
+    "id": "262500-insurgent",
+    "poster": "/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg",
+    "year": "2015",
+    "director": "Robert Schwentke",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "suZcGoRLXkU"
+  },
+  {
+    "id": "135397-jurassic-world",
+    "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "year": "2015",
+    "director": "Colin Trevorrow",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "aJJrkyHas78"
+  },
+  {
     "id": "99861-avengers-age-of-ultron",
     "poster": "/dsZUpJ6ml5dQpI7vBdscveCv4aB.jpg",
     "year": "2015",
@@ -817,19 +895,6 @@
     "dCastillian": "https://1fichier.com/?hbzoe6erph",
     "dEnglish": "https://1fichier.com/?nfusikw09i",
     "trailerId": "tmeOjFno6Do"
-  },
-  {
-    "id": "207703-kingsman-the-secret-service",
-    "poster": "/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
-    "year": "2014",
-    "director": "Matthew Vaughn",
-    "pLatin": "https://ok.ru/videoembed/2780896496309",
-    "pCastillian": "https://uqload.com/embed-x6croudb4v7c.html",
-    "pEnglish": "https://videyo.net/embed-btnhvufh36ja.html",
-    "dLatin": "https://1fichier.com/?x9nub5axs3rpnfq5bb87",
-    "dCastillian": "https://1fichier.com/?y11e3oaqq5bnmn5ckq1h",
-    "dEnglish": "https://1fichier.com/?ykbvybpd5q9cdywiqqjj",
-    "trailerId": "m4NCribDx4U"
   },
   {
     "id": "177677-mission-impossible-rogue-nation",
@@ -895,6 +960,45 @@
     "dCastillian": "https://1fichier.com/?tg5u801iw8my6e2ndh7h",
     "dEnglish": "https://1fichier.com/?ii3t4f4ije72uwjvuyo9",
     "trailerId": "-44_igsZtgU"
+  },
+  {
+    "id": "131631-the-hunger-games-mockingjay-part-1",
+    "poster": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+    "year": "2014",
+    "director": "Francis Lawrence",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "C_Tsj_wTJkQ"
+  },
+  {
+    "id": "157350-divergent",
+    "poster": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+    "year": "2014",
+    "director": "Neil Burger",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "sutgWjz10sM"
+  },
+  {
+    "id": "207703-kingsman-the-secret-service",
+    "poster": "/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
+    "year": "2014",
+    "director": "Matthew Vaughn",
+    "pLatin": "https://ok.ru/videoembed/2780896496309",
+    "pCastillian": "https://uqload.com/embed-x6croudb4v7c.html",
+    "pEnglish": "https://videyo.net/embed-btnhvufh36ja.html",
+    "dLatin": "https://1fichier.com/?x9nub5axs3rpnfq5bb87",
+    "dCastillian": "https://1fichier.com/?y11e3oaqq5bnmn5ckq1h",
+    "dEnglish": "https://1fichier.com/?ykbvybpd5q9cdywiqqjj",
+    "trailerId": "m4NCribDx4U"
   },
   {
     "id": "260346-tak3n",
@@ -1040,6 +1144,19 @@
     "trailerId": "vIu85WQTPRc"
   },
   {
+    "id": "101299-the-hunger-games-catching-fire",
+    "poster": "/eZErsoRjOW7aqTBrxGHoHQ7BeWs.jpg",
+    "year": "2013",
+    "director": "Francis Lawrence",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "MkvUNfySGQU"
+  },
+  {
     "id": "68726-pacific-rim",
     "poster": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
     "year": "2013",
@@ -1157,6 +1274,19 @@
     "trailerId": "eOrNdBpGMv8"
   },
   {
+    "id": "70160-the-hunger-games",
+    "poster": "/1ewwtjqAcwZ5abr2X7coGN0UwaI.jpg",
+    "year": "2012",
+    "director": "Gary Ross",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "sd6lb0fPl7g"
+  },
+  {
     "id": "56292-mission-impossible-ghost-protocol",
     "poster": "/7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg",
     "year": "2011",
@@ -1233,6 +1363,19 @@
     "dCastillian": "",
     "dEnglish": "",
     "trailerId": "YoHD9XEInc0"
+  },
+  {
+    "id": "19995-avatar",
+    "poster": "/pgjs6VwqKa9COml98tqMGjIkoJG.jpg",
+    "year": "2009",
+    "director": "James Cameron",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "5PSNL1qE6VY"
   },
   {
     "id": "8373-transformers-revenge-of-the-fallen",
@@ -1313,6 +1456,19 @@
     "trailerId": "KjzPi5hfv9c"
   },
   {
+    "id": "331-jurassic-park-iii",
+    "poster": "/wQj9VSepvXmqha1XNtfdrgvqHdk.jpg",
+    "year": "2001",
+    "director": "Joe Johnston",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "gjIaV6CU0wA"
+  },
+  {
     "id": "36657-x-men",
     "poster": "/auc1kBXGI3iTCGuphNleFim7Ff8.jpg",
     "year": "2000",
@@ -1339,6 +1495,19 @@
     "trailerId": "vIpqpRuGrq4"
   },
   {
+    "id": "330-the-lost-world-jurassic-park",
+    "poster": "/bMwP9vq7juweGJcgq70CrpO0UHQ.jpg",
+    "year": "1997",
+    "director": "Steven Spielberg",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "vtfwgaHD5_w"
+  },
+  {
     "id": "954-mission-impossible",
     "poster": "/sbrqw55DfVs08mW9JWNPMFgUSmW.jpg",
     "year": "1996",
@@ -1350,5 +1519,18 @@
     "dCastillian": "https://1fichier.com/?lewiy6t1pjeth30f5k8w",
     "dEnglish": "https://1fichier.com/?g8ok8hti8ip40erjqbub",
     "trailerId": "vadCbBuUM0E"
+  },
+  {
+    "id": "329-jurassic-park",
+    "poster": "/456FcvyTujRwzgoMoKKoheeCOlU.jpg",
+    "year": "1993",
+    "director": "Steven Spielberg",
+    "pLatin": "",
+    "pCastillian": "",
+    "pEnglish": "",
+    "dLatin": "",
+    "dCastillian": "",
+    "dEnglish": "",
+    "trailerId": "Wfv5jdW__N0"
   }
 ]
